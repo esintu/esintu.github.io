@@ -46,7 +46,7 @@
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0300</pubDate>
       
       <guid>/project/tdcs_motor/</guid>
-      <description>&lt;p&gt;This project aimed to replicate a motor effect reported in Javadi et al. (2015) with a different perceptual task, as well as modelling the data with the drift diffusion model to investigate the nature of the effect in terms of latent decision variables. We did not observe the reported effect with neither behavioral nor model outcomes. The data is available at the OSF Repository.&lt;/p&gt;
+      <description>&lt;p&gt;This project aimed to replicate a motor effect reported in &lt;a href=&#34;https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4745131/&#34; target=&#34;_blank&#34;&gt;Javadi et al. (2015)&lt;/a&gt; with a different perceptual task, as well as modelling the data with the drift diffusion model to investigate the nature of the effect in terms of latent decision processes. We did not observe the reported effect with neither behavioral nor model outcomes. The data is available at the &lt;a href=&#34;osf.io/uys2k&#34; target=&#34;_blank&#34;&gt;OSF Repository&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
