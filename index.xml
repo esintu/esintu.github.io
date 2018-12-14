@@ -16,8 +16,7 @@
       <pubDate>Fri, 01 Jun 2018 00:00:00 +0300</pubDate>
       
       <guid>/publication/motor-tdcs/</guid>
-      <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
-</description>
+      <description></description>
     </item>
     
     <item>
@@ -26,8 +25,7 @@
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0300</pubDate>
       
       <guid>/publication/pediatric-ocd/</guid>
-      <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
-</description>
+      <description></description>
     </item>
     
     <item>
@@ -36,7 +34,7 @@
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0300</pubDate>
       
       <guid>/project/tdcs_motor/</guid>
-      <description>&lt;p&gt;This project aimed to replicate a motor effect reported in &lt;a href=&#34;https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4745131/&#34; target=&#34;_blank&#34;&gt;Javadi et al. (2015)&lt;/a&gt; with a different perceptual task, as well as modelling the data with the drift diffusion model to investigate the nature of the effect in terms of latent decision processes. We did not observe the reported effect with neither behavioral nor model outcomes. The data is available at the &lt;a href=&#34;osf.io/uys2k&#34; target=&#34;_blank&#34;&gt;OSF Repository&lt;/a&gt;.&lt;/p&gt;
+      <description>&lt;p&gt;This project aimed to replicate a motor effect reported in &lt;a href=&#34;https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4745131/&#34; target=&#34;_blank&#34;&gt;Javadi et al. (2015)&lt;/a&gt; with sham control and a different perceptual task, as well as fitting the drift diffusion model to the data in order to investigate the nature of the effect in terms of latent decision processes. We did not observe the reported effect with neither behavioral nor model outcomes. The data is available at the &lt;a href=&#34;osf.io/uys2k&#34; target=&#34;_blank&#34;&gt;OSF Repository&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
