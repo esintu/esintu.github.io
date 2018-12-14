@@ -13,16 +13,6 @@
     
     
     <item>
-      <title>FACES</title>
-      <link>/post/facesdataexp/</link>
-      <pubDate>Fri, 14 Dec 2018 21:13:14 -0500</pubDate>
-      
-      <guid>/post/facesdataexp/</guid>
-      <description>This is a demo page for data display
-Summary of demo subjects   SubjID  group  block_emotion  blockgroup  trials  accuracy  errors  medianRT  avgRT  sdRT  minRT  maxRT      35  CONT  Angry  regular  100  0.91  9  1.20  1.50  1.20  0.42  9.81    35  CONT  Angry  frustration  71  0.</description>
-    </item>
-    
-    <item>
       <title>Academic: the website designer for Hugo</title>
       <link>/post/getting-started/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0300</pubDate>
