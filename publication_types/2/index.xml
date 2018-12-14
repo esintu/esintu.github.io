@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 on Esin Turkakin Research</title>
+    <link>/publication_types/2/</link>
+    <description>Recent content in 2 on Esin Turkakin Research</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Fri, 01 Jun 2018 00:00:00 +0300</lastBuildDate>
+    
+	<atom:link href="/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Differential Bilateral Primary Motor Cortex tDCS Fails to Modulate Choice Bias and Readiness in Perceptual Decision Making</title>
+      <link>/publication/motor-tdcs/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0300</pubDate>
+      
+      <guid>/publication/motor-tdcs/</guid>
+      <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
+    </item>
+    
+    <item>
+      <title>Disrupted latent decision processes in medication-free pediatric OCD patients</title>
+      <link>/publication/pediatric-ocd/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0300</pubDate>
+      
+      <guid>/publication/pediatric-ocd/</guid>
+      <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
+    </item>
+    
+  </channel>
+</rss>
