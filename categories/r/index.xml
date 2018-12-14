@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Thu, 23 Jul 2015 21:13:14 -0500</lastBuildDate>
+    <lastBuildDate>Fri, 14 Dec 2018 21:13:14 -0500</lastBuildDate>
     
 	<atom:link href="/categories/r/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>FACES</title>
+      <link>/post/facesdataexp/</link>
+      <pubDate>Fri, 14 Dec 2018 21:13:14 -0500</pubDate>
+      
+      <guid>/post/facesdataexp/</guid>
+      <description>This is a demo page for data display
+Summary of demo subjects   SubjID  group  block_emotion  blockgroup  trials  accuracy  errors  medianRT  avgRT  sdRT  minRT  maxRT      35  CONT  Angry  regular  100  0.91  9  1.20  1.50  1.20  0.42  9.81    35  CONT  Angry  frustration  71  0.</description>
+    </item>
     
     <item>
       <title>Hello R Markdown</title>

@@ -11,6 +11,371 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>FACES</title>
+      <link>/post/facesdataexp/</link>
+      <pubDate>Fri, 14 Dec 2018 21:13:14 -0500</pubDate>
+      
+      <guid>/post/facesdataexp/</guid>
+      <description>&lt;script src=&#34;/rmarkdown-libs/kePrint/kePrint.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;p&gt;This is a demo page for data display&lt;/p&gt;
+&lt;div id=&#34;summary-of-demo-subjects&#34; class=&#34;section level5&#34;&gt;
+&lt;h5&gt;Summary of demo subjects&lt;/h5&gt;
+&lt;table class=&#34;table&#34; style=&#34;width: auto !important; &#34;&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:right;&#34;&gt;
+SubjID
+&lt;/th&gt;
+&lt;th style=&#34;text-align:left;&#34;&gt;
+group
+&lt;/th&gt;
+&lt;th style=&#34;text-align:left;&#34;&gt;
+block_emotion
+&lt;/th&gt;
+&lt;th style=&#34;text-align:left;&#34;&gt;
+blockgroup
+&lt;/th&gt;
+&lt;th style=&#34;text-align:right;&#34;&gt;
+trials
+&lt;/th&gt;
+&lt;th style=&#34;text-align:right;&#34;&gt;
+accuracy
+&lt;/th&gt;
+&lt;th style=&#34;text-align:right;&#34;&gt;
+errors
+&lt;/th&gt;
+&lt;th style=&#34;text-align:right;&#34;&gt;
+medianRT
+&lt;/th&gt;
+&lt;th style=&#34;text-align:right;&#34;&gt;
+avgRT
+&lt;/th&gt;
+&lt;th style=&#34;text-align:right;&#34;&gt;
+sdRT
+&lt;/th&gt;
+&lt;th style=&#34;text-align:right;&#34;&gt;
+minRT
+&lt;/th&gt;
+&lt;th style=&#34;text-align:right;&#34;&gt;
+maxRT
+&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+35
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+CONT
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+Angry
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+regular
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+100
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+0.91
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+9
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+1.20
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+1.50
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+1.20
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+0.42
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+9.81
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+35
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+CONT
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+Angry
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+frustration
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+71
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+0.79
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+15
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+1.40
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+2.89
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+5.46
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+0.07
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+29.65
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+35
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+CONT
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+Happy
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+regular
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+17
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+0.47
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+9
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+1.96
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+17.74
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+44.46
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+0.74
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+183.42
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+35
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+CONT
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+Happy
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+frustration
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+19
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+0.74
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+5
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+1.95
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+15.37
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+29.70
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+0.91
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+113.68
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+36
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+CONT
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+Angry
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+regular
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+117
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+0.94
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+7
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+0.88
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+0.95
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+0.30
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+0.50
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+2.05
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+36
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+CONT
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+Angry
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+frustration
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+113
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+0.84
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+18
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+0.90
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+1.05
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+0.43
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+0.06
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+2.17
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+36
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+CONT
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+Happy
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+regular
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+126
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+0.95
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+6
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+0.71
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+0.80
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+0.38
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+0.48
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+3.78
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+36
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+CONT
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+Happy
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+frustration
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+117
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+0.99
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+1
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+0.84
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+0.91
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+0.35
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+0.36
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+2.25
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;How does this work out?&lt;/p&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Differential Bilateral Primary Motor Cortex tDCS Fails to Modulate Choice Bias and Readiness in Perceptual Decision Making</title>
       <link>/publication/motor-tdcs/</link>
       <pubDate>Fri, 01 Jun 2018 00:00:00 +0300</pubDate>
