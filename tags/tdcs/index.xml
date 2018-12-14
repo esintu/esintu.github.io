@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Projects on ETResearch</title>
-    <link>/project/</link>
-    <description>Recent content in Projects on ETResearch</description>
+    <title>TDCS on ETResearch</title>
+    <link>/tags/tdcs/</link>
+    <description>Recent content in TDCS on ETResearch</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0300</lastBuildDate>
     
-	<atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/tdcs/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -19,15 +19,6 @@
       
       <guid>/project/tdcs_motor/</guid>
       <description>This project aimed to replicate a motor effect reported in Javadi et al. (2015) with a different perceptual task, as well as modelling the data with the drift diffusion model to investigate the nature of the effect in terms of latent decision variables. We did not observe the reported effect with neither behavioral nor model outcomes. The data is available at the OSF Repository.</description>
-    </item>
-    
-    <item>
-      <title>Turkish Elections - 2015</title>
-      <link>/project/tr_election2015/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0300</pubDate>
-      
-      <guid>/project/tr_election2015/</guid>
-      <description></description>
     </item>
     
   </channel>

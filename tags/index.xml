@@ -22,20 +22,29 @@
     </item>
     
     <item>
-      <title>Deep-learning</title>
-      <link>/tags/deep-learning/</link>
+      <title>DDM</title>
+      <link>/tags/ddm/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0300</pubDate>
       
-      <guid>/tags/deep-learning/</guid>
+      <guid>/tags/ddm/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Demo</title>
-      <link>/tags/demo/</link>
+      <title>Neuromodulation</title>
+      <link>/tags/neuromodulation/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0300</pubDate>
       
-      <guid>/tags/demo/</guid>
+      <guid>/tags/neuromodulation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Other</title>
+      <link>/tags/other/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0300</pubDate>
+      
+      <guid>/tags/other/</guid>
       <description></description>
     </item>
     
@@ -63,6 +72,15 @@
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       
       <guid>/tags/regression/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TDCS</title>
+      <link>/tags/tdcs/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0300</pubDate>
+      
+      <guid>/tags/tdcs/</guid>
       <description></description>
     </item>
     
