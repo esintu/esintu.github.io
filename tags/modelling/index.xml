@@ -21,5 +21,14 @@
       <description>This project aims to develop and validate a gamified two-alternative forced choice task under the drift diffusion model framework and test the effects of individual differences and score context on model parameters. An additional component of the project (in progress) aims to develop and compare custom models of how exactly participants integrate and evaluate sequential information about the underlying distributions of the stimuli. Currently (as of April, 2019), the initial validation component is released as a preprint.</description>
     </item>
     
+    <item>
+      <title>Motor tDCS</title>
+      <link>/project/tdcs_motor/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0300</pubDate>
+      
+      <guid>/project/tdcs_motor/</guid>
+      <description>This project aimed to replicate a motor effect reported in Javadi et al. (2015) with sham control and a different perceptual task, as well as fitting the drift diffusion model to the data in order to investigate the nature of the effect in terms of latent decision processes. We did not observe the reported effect with neither behavioral nor model outcomes. The data is available at the OSF Repository.</description>
+    </item>
+    
   </channel>
 </rss>
