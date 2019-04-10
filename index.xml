@@ -34,7 +34,7 @@
       <pubDate>Tue, 10 Apr 2018 00:00:00 +0300</pubDate>
       
       <guid>/project/shoot/</guid>
-      <description>&lt;p&gt;This project aims to develop and validate a gamified two-alternative forced choice task under the drift diffusion model framework and test the effects of individual differences and score context on model parameters. An additional component of the project (in progress) aims to develop and compare custom models of how exactly participants integrate and evaluate sequential information about the underlying distributions of the stimuli. Currently (as of April, 2019), the initial validation component is released as a preprint.&lt;/p&gt;
+      <description>&lt;p&gt;This project aims to develop and validate a gamified two-alternative forced choice task under the drift diffusion model framework and test the effects of individual differences and score context on model parameters. An additional component of the project (in progress) aims to develop and compare custom models of how exactly participants integrate and evaluate sequential information about the underlying distributions of the stimuli. Currently (as of April, 2019), the initial validation component is released as a preprint. The data, task, and data analysis codes will be released via the Open Science Framework as the upcoming components are completed.&lt;/p&gt;
 </description>
     </item>
     
