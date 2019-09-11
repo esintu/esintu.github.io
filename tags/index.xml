@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0300</lastBuildDate>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0100</lastBuildDate>
     
 	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>Content tagged as &#39;Academic&#39;</title>
       <link>/tags/academic/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0300</pubDate>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
       
       <guid>/tags/academic/</guid>
       <description>Here is a list of all the content that has been tagged as academic.</description>
@@ -24,7 +24,7 @@
     <item>
       <title>DDM</title>
       <link>/tags/ddm/</link>
-      <pubDate>Tue, 10 Apr 2018 00:00:00 +0300</pubDate>
+      <pubDate>Tue, 10 Apr 2018 00:00:00 +0200</pubDate>
       
       <guid>/tags/ddm/</guid>
       <description></description>
@@ -33,7 +33,7 @@
     <item>
       <title>Gamification</title>
       <link>/tags/gamification/</link>
-      <pubDate>Tue, 10 Apr 2018 00:00:00 +0300</pubDate>
+      <pubDate>Tue, 10 Apr 2018 00:00:00 +0200</pubDate>
       
       <guid>/tags/gamification/</guid>
       <description></description>
@@ -42,7 +42,7 @@
     <item>
       <title>Modelling</title>
       <link>/tags/modelling/</link>
-      <pubDate>Tue, 10 Apr 2018 00:00:00 +0300</pubDate>
+      <pubDate>Tue, 10 Apr 2018 00:00:00 +0200</pubDate>
       
       <guid>/tags/modelling/</guid>
       <description></description>
@@ -51,7 +51,7 @@
     <item>
       <title>Neuromodulation</title>
       <link>/tags/neuromodulation/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0300</pubDate>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0200</pubDate>
       
       <guid>/tags/neuromodulation/</guid>
       <description></description>
@@ -60,7 +60,7 @@
     <item>
       <title>Other</title>
       <link>/tags/other/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0300</pubDate>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0200</pubDate>
       
       <guid>/tags/other/</guid>
       <description></description>
@@ -69,7 +69,7 @@
     <item>
       <title>TDCS</title>
       <link>/tags/tdcs/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0300</pubDate>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0200</pubDate>
       
       <guid>/tags/tdcs/</guid>
       <description></description>
