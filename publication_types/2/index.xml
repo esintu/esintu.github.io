@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Fri, 01 Jun 2018 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jun 2020 00:00:00 +0200</lastBuildDate>
     
 	<atom:link href="/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Aging impairs perceptual decision-making in mice: integrating computational and neurobiological approaches</title>
+      <link>/publication/aging-mice/</link>
+      <pubDate>Mon, 22 Jun 2020 00:00:00 +0200</pubDate>
+      
+      <guid>/publication/aging-mice/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Differential Bilateral Primary Motor Cortex tDCS Fails to Modulate Choice Bias and Readiness in Perceptual Decision Making</title>
